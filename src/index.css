@@ -1,3 +1,6 @@
 body{
     margin-top: 0%;
+    background-image: url(we.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
